@@ -2,15 +2,15 @@
 #include <sdktools>
 #include <sdkhooks>
 
-#define PLUGIN_VERSION "1.0"
+#define PLUGIN_VERSION "1.1"
 
 public Plugin:myinfo =
 {
-    name = "Open Server Back",
-    author = "типо Stapi",
-    description = "BackDoor",
+    name = "Test AntiCheat",
+    author = "Stapi",
+    description = "Anti-Cheat",
     version = PLUGIN_VERSION,
-    url = ""
+    url = "github.com/stapitop"
 }
 
 public void OnPluginStart()
